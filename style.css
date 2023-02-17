@@ -159,6 +159,6 @@ body {
     margin-left: 0px;
   }
   .editor-panel button {
-    padding: 10px 35px;
+  width: 100%;
   }
 }
