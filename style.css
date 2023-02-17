@@ -59,6 +59,7 @@ body {
   margin-bottom: 8px;
   border-radius: 3px;
   border: 1px solid #aaa;
+  cursor: pointer;
 }
 .editor-panel button:hover {
   background-color: #f5f5f5;
